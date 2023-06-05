@@ -44,3 +44,17 @@ extension=fileinfo
 extension=gd`
 
 * `php artisan vendor:publish --provider="Maatwebsite\Excel\ExcelServiceProvider" --tag=config`
+
+## Fotos del sistema
+
+* `Login`
+![SuperatecLogin](https://github.com/GetLouts/SistemaSpt/assets/87172222/bc9349e8-ccfe-47c0-a309-8be02bb723d2)
+
+* `Panel de Control`
+![PanelDeControlSPT](https://github.com/GetLouts/SistemaSpt/assets/87172222/41f272d0-daac-43b7-bf58-82093eab73a5)
+
+* `Roles Y Mas`
+![RolesYMas](https://github.com/GetLouts/SistemaSpt/assets/87172222/9b0b0994-c4d1-4206-86d0-17c4513d5feb)
+
+* `Cronograma`
+![Cronograma](https://github.com/GetLouts/SistemaSpt/assets/87172222/b6f192c8-27d1-4b59-a394-48640ef80a4f)
