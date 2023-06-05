@@ -1,0 +1,38 @@
+#app {
+    background: #00000088;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #43434360, #00000063);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #43434360, #00000063), url(/img/Background/superatec2.jpg);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    
+}
+.caja{
+    height: 450px;
+    width: 500px;
+    font-size: 13px;
+    
+}
+
+.section{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.borde{
+    border: 1px solid red;
+}
+
+.logo{
+    height: 132px;
+    width: 310px;
+}
