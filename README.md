@@ -58,3 +58,6 @@ extension=gd`
 
 * `Cronograma`
 ![Cronograma](https://github.com/GetLouts/SistemaSpt/assets/87172222/b6f192c8-27d1-4b59-a394-48640ef80a4f)
+
+* `Bases de datos Relacionadas`
+![bbdd](https://github.com/GetLouts/SistemaSpt/assets/87172222/889061b3-85e2-480a-8c8d-62f6a232542e)
