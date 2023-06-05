@@ -13,7 +13,14 @@ _Ejecutar los comandos para poner el proyecto a funcionar._
 
 * `composer install` Instalacion de libreria necesarias
 * `php artisan key:generate` Crear la clave de la aplicacion
-* `php artisan migrate:fresh --seed`
+
+## Crear Base de dato
+_Ejecutar el comando para migrar la bbdd._
+
+* `php artisan migrate:fresh --seed` Migracion de toda la base de datos
+
+## Iniciar el servidor
+_Ejecutar el comando para poner el proyecto online._
 * `php artisan serve` Activar el servidor para pruebas
 
 ## Credenciales de prueba
